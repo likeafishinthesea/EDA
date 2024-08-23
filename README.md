@@ -31,8 +31,6 @@ The dataset includes user interaction data such as views, clicks, time spent on 
 - **Python**: Pandas, Seaborn, Matplotlib
 - **Jupyter Notebooks**
 
-👉 [View the Full Project](#) (Link to the project page)
-
 ---
 
 ## Project 2: User Retention and Monetization Analysis with SQL 💰
@@ -54,10 +52,8 @@ The dataset contains user acquisition data (e.g., from organic search, social me
 - Proposed actionable steps for increasing retention by optimizing acquisition strategies and personalizing content based on user behavior.
 
 ### **Technologies Used**
-- **SQL**: MySQL/PostgreSQL (Depending on the setup)
-- **BI Tools**: PowerBI/Tableau (for visualization and reporting)
-
-👉 [View the Full Project](#) (Link to the project page)
+- **SQL**: MySQL
+- **BI Tools**: PowerBI (for visualization and reporting)
 
 ---
 
