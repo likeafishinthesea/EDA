@@ -70,24 +70,24 @@ cd data-analysis-projects
 ### 2. Python Project Setup (Pandas)
 Make sure you have Python installed. You can create a virtual environment and install the necessary dependencies.
 
-\`\`\`bash
+```
 python -m venv venv
 source venv/bin/activate  # On Windows use \`venv\Scriptsctivate\`
 pip install -r requirements.txt
-\`\`\`
+```
 
 Then, launch the Jupyter notebook to explore the Pandas project.
 
-\`\`\`bash
+```
 jupyter notebook
-\`\`\`
+```
 
 ### 3. SQL Project Setup
 For the SQL project, ensure you have a working SQL database (e.g., MySQL, PostgreSQL). Import the provided \`.sql\` file to set up the database.
 
-\`\`\`sql
+```sql
 mysql -u username -p database_name < user_retention_analysis.sql
-\`\`\`
+```
 
 You can explore the SQL queries in the provided \`.sql\` file or run your own queries on the dataset.
 
