@@ -95,21 +95,9 @@ You can explore the SQL queries in the provided \`.sql\` file or run your own qu
 
 ## 🛠️ Tools & Technologies
 - **Python (Pandas, Seaborn, Matplotlib)**: Used for data cleaning, manipulation, and visualization in the Content Engagement Analysis project.
-- **SQL (MySQL/PostgreSQL)**: Used for querying and analyzing user acquisition, retention, and monetization data in the User Retention project.
+- **SQL (MySQL)**: Used for querying and analyzing user acquisition, retention, and monetization data in the User Retention project.
 - **Jupyter Notebooks**: For documenting the Python-based analysis and sharing interactive results.
-- **PowerBI/Tableau**: For visualizing SQL query results in interactive dashboards.
-
----
-
-## 👨‍💻 About Me
-I'm a data analyst with a passion for extracting insights from complex datasets to help businesses make data-driven decisions. In these projects, I focused on leveraging data to optimize content strategy, improve user retention, and enhance monetization strategies for digital publishing platforms.
-
-Feel free to connect with me on [LinkedIn](#) or check out more of my work on [my website](#).
-
----
-
-## 🤝 Contributing
-If you’d like to contribute to these projects or have suggestions for improvements, feel free to fork the repository and submit a pull request!
+- **PowerBI**: For visualizing SQL query results in interactive dashboards.
 
 ---
 
