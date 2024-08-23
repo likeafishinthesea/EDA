@@ -102,5 +102,5 @@ You can explore the SQL queries in the provided \`.sql\` file or run your own qu
 ---
 
 ## 📄 License
-These projects are licensed under the MIT License. See the `LICENSE` file for more information.
+These projects are licensed under the Apache License. See the `LICENSE` file for more information.
 
