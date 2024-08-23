@@ -62,10 +62,10 @@ The dataset contains user acquisition data (e.g., from organic search, social me
 To explore the projects on your own machine, follow the steps below:
 
 ### 1. Clone the Repository
-\`\`\`bash
+```
 git clone https://github.com/yourusername/data-analysis-projects.git
 cd data-analysis-projects
-\`\`\`
+```
 
 ### 2. Python Project Setup (Pandas)
 Make sure you have Python installed. You can create a virtual environment and install the necessary dependencies.
